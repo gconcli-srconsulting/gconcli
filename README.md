@@ -2,11 +2,11 @@
 
 Sou um aventureiro em busca de conhecimento no mundo da programação!
 
-- 🔭 Atualmente, estudo no SENAC TECH;
-- 🌱 Estou aprendendo linguagens de backend;
-- 👨🏻‍💻 Desenvolvendo projetos em C# e Python;
-- 🤖 Objetivos: Criar projetos em PHP, Java e Typescript;
-- 🎯 Meta: Ser contratado como desenvolvedor júnior;
+- 🔭 Atualmente, estudo na PUCRS;
+- 🌱 Estou aprendendo sobre ambientes de testes automatizados;
+- 👨🏻‍💻 Trabalhando como QA em Salesforce na Sr Consulting;
+- 🤖 Objetivos: Evoluir como profissional;
+- 🎯 Meta: Virar um analista pleno;
 - ⚡ Curiosidade: Sou apaixonado por fotografia;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
